@@ -63,3 +63,5 @@ A modern, efficient, and user-friendly Point of Sale (POS) and Supermarket Manag
 
 - **Manager:** `NV01` / `123456`
 - **Cashier:** `NV02` / `123456`
+
+" AIS stand for Almost Intelligent System :3 "
