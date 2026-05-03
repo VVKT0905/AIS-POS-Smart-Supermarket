@@ -63,3 +63,6 @@ Hệ thống Quản lý Bán hàng (POS) hiện đại, hiệu quả và dễ s�
 
 - **Quản lý:** `NV01` / `123456`
 - **Thu ngân:** `NV02` / `123456`
+
+
+" AIS stand for Almost Intelligent System :3 "
