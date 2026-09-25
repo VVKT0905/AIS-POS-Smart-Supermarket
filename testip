@@ -196,7 +196,7 @@
     "skins":  [
                   {
                       "id":  "amano_lilysa",
-                      "name":  "amano lilysa",
+                      "name":  "Amano Lilysa",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "amano_lilysa.ysm",
@@ -204,7 +204,7 @@
                   },
                   {
                       "id":  "canari__pkmn_trainer_",
-                      "name":  "canari (pkmn trainer)",
+                      "name":  "Canari (Pkmn Trainer)",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "canari_(pkmn_trainer).ysm",
@@ -212,7 +212,7 @@
                   },
                   {
                       "id":  "fallenshadow_v2_1",
-                      "name":  "fallenshadow v2.1",
+                      "name":  "Fallenshadow",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "fallenshadow v2.1.ysm",
@@ -220,7 +220,7 @@
                   },
                   {
                       "id":  "fuwi",
-                      "name":  "fuwi",
+                      "name":  "Fuwi",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "fuwi.ysm",
@@ -252,7 +252,7 @@
                   },
                   {
                       "id":  "hachiroku",
-                      "name":  "hachiroku",
+                      "name":  "Hachiroku",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "hachiroku.ysm",
@@ -260,7 +260,7 @@
                   },
                   {
                       "id":  "hololive_watame",
-                      "name":  "hololive watame",
+                      "name":  "Hololive Watame",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "hololive_watame.ysm",
@@ -268,7 +268,7 @@
                   },
                   {
                       "id":  "koishi_komeiji",
-                      "name":  "koishi komeiji",
+                      "name":  "Koishi Komeiji",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "koishi_komeiji.ysm",
@@ -284,7 +284,7 @@
                   },
                   {
                       "id":  "malenia",
-                      "name":  "malenia",
+                      "name":  "Malenia",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "malenia.ysm",
@@ -292,7 +292,7 @@
                   },
                   {
                       "id":  "mcdo_hatsune_miku_nkrmc",
-                      "name":  "mcdo hatsune miku nkrmc",
+                      "name":  "Mcdo Hatsune Miku Nkrmc",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "mcdo_hatsune_miku_nkrmc.ysm",
@@ -300,7 +300,7 @@
                   },
                   {
                       "id":  "mc_cashier",
-                      "name":  "mc cashier",
+                      "name":  "Mc Cashier",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "mc_cashier.ysm",
@@ -308,10 +308,42 @@
                   },
                   {
                       "id":  "mesugaki_regent",
-                      "name":  "mesugaki regent",
+                      "name":  "Mesugaki Regent",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "mesugaki_regent.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "misc_1_alex",
+                      "name":  "Alex",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "misc_1_alex.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "misc_2_steve",
+                      "name":  "Steve",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "misc_2_steve.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "misc_3_default_boy",
+                      "name":  "Default Boy",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "misc_3_default_boy.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "misc_4_default_controllers",
+                      "name":  "Default Controllers",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "misc_4_default_controllers.ysm",
                       "downloadUrl":  ""
                   },
                   {
@@ -324,7 +356,7 @@
                   },
                   {
                       "id":  "muu_muyu_small",
-                      "name":  "muu muyu small",
+                      "name":  "Muu Muyu Small",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "muu_muyu_small.ysm",
@@ -332,7 +364,7 @@
                   },
                   {
                       "id":  "muu_muyu_tall",
-                      "name":  "muu muyu tall",
+                      "name":  "Muu Muyu Tall",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "muu_muyu_tall.ysm",
@@ -340,7 +372,7 @@
                   },
                   {
                       "id":  "netcore",
-                      "name":  "netcore",
+                      "name":  "Netcore",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "netcore.ysm",
@@ -348,7 +380,7 @@
                   },
                   {
                       "id":  "neuro_sama",
-                      "name":  "neuro sama",
+                      "name":  "Neuro Sama",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "neuro_sama.ysm",
@@ -356,7 +388,7 @@
                   },
                   {
                       "id":  "nikke_crown",
-                      "name":  "nikke crown",
+                      "name":  "Nikke Crown",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "nikke_crown.ysm",
@@ -364,7 +396,7 @@
                   },
                   {
                       "id":  "pekomama",
-                      "name":  "pekomama",
+                      "name":  "Pekomama",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "pekomama.ysm",
@@ -372,7 +404,7 @@
                   },
                   {
                       "id":  "pippa_pipkin2",
-                      "name":  "pippa pipkin2",
+                      "name":  "Pippa Pipkin2",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "pippa_pipkin2.ysm",
@@ -404,7 +436,7 @@
                   },
                   {
                       "id":  "pwned_darwin",
-                      "name":  "pwned darwin",
+                      "name":  "Pwned Darwin",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "pwned_darwin.ysm",
@@ -412,7 +444,7 @@
                   },
                   {
                       "id":  "pwned_red",
-                      "name":  "pwned red",
+                      "name":  "Pwned Red",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "pwned_red.ysm",
@@ -420,7 +452,7 @@
                   },
                   {
                       "id":  "pwned_valeri_0_3",
-                      "name":  "pwned valeri 0.3",
+                      "name":  "Pwned Valeri 0.3",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "pwned_valeri_0.3.ysm",
@@ -428,7 +460,7 @@
                   },
                   {
                       "id":  "reverse_v1",
-                      "name":  "reverse",
+                      "name":  "Reverse",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "reverse v1.ysm",
@@ -436,7 +468,7 @@
                   },
                   {
                       "id":  "tachibana_mikari",
-                      "name":  "tachibana mikari",
+                      "name":  "Tachibana Mikari",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "tachibana_mikari.ysm",
@@ -444,7 +476,7 @@
                   },
                   {
                       "id":  "tako_chan",
-                      "name":  "tako chan",
+                      "name":  "Tako Chan",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "tako chan.ysm",
@@ -467,8 +499,184 @@
                       "downloadUrl":  ""
                   },
                   {
+                      "id":  "wine_fox_01_taisho_maid",
+                      "name":  "Wine Fox Taisho Maid",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_01_taisho_maid.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_02_new_year",
+                      "name":  "Wine Fox New Year",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_02_new_year.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_03_astronaut",
+                      "name":  "Wine Fox Astronaut",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_03_astronaut.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_04_kongfu",
+                      "name":  "Wine Fox Kongfu",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_04_kongfu.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_05_magical",
+                      "name":  "Wine Fox Magical",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_05_magical.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_06_hanfu",
+                      "name":  "Wine Fox Hanfu",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_06_hanfu.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_07_jk",
+                      "name":  "Wine Fox Jk",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_07_jk.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_08_sta",
+                      "name":  "Wine Fox Sta",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_08_sta.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_09_hailuo",
+                      "name":  "Wine Fox Hailuo",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_09_hailuo.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_10_zhiban",
+                      "name":  "Wine Fox Zhiban",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_10_zhiban.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_11_salesperson",
+                      "name":  "Wine Fox Salesperson",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_11_salesperson.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_12_little",
+                      "name":  "Wine Fox Little",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_12_little.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_13_matured",
+                      "name":  "Wine Fox Matured",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_13_matured.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_14_momo",
+                      "name":  "Wine Fox Momo",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_14_momo.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_15_kluonoa",
+                      "name":  "Wine Fox Kluonoa",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_15_kluonoa.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_16_tactics",
+                      "name":  "Wine Fox Tactics",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_16_tactics.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_17_mini",
+                      "name":  "Wine Fox Mini",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_17_mini.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_18_wedding",
+                      "name":  "Wine Fox Wedding",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_18_wedding.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_19_nine_tailed",
+                      "name":  "Wine Fox Nine Tailed",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_19_nine_tailed.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_20_survivor",
+                      "name":  "Wine Fox Survivor",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_20_survivor.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_21_saint",
+                      "name":  "Wine Fox Saint",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_21_saint.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
+                      "id":  "wine_fox_22_elf",
+                      "name":  "Wine Fox Elf",
+                      "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
+                      "price":  1000,
+                      "fileName":  "wine_fox_22_elf.ysm",
+                      "downloadUrl":  ""
+                  },
+                  {
                       "id":  "witch_elaina",
-                      "name":  "witch elaina",
+                      "name":  "Witch Elaina",
                       "description":  "Custom Yes Steve Model danh rieng cho Da Cuoi Mon",
                       "price":  1000,
                       "fileName":  "witch_elaina.ysm",
