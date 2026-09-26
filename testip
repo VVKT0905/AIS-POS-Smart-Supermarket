@@ -191,6 +191,87 @@
                                 "expectedSize":  229645,
                                 "isDatapack":  false,
                                 "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Cobblemon: Mega Showdown",
+                                "slug":  "cobblemon-mega-showdown",
+                                "fileName":  "mega_showdown-fabric-1.2.0+1.8.1+1.21.1-release.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/SszvX85I/versions/TKdAixuR/mega_showdown-fabric-1.2.0%2B1.8.1%2B1.21.1-release.jar",
+                                "expectedSize":  20152218,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Cobblemon: Legendary Monuments",
+                                "slug":  "legendary-monuments",
+                                "fileName":  "legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/m6RyHSbV/versions/F6Ub0Gga/legendarymonuments-fabric-1.21.1-8.1-Love_for_All.jar",
+                                "expectedSize":  16611506,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Cobblemon Raid Dens",
+                                "slug":  "cobblemonraiddens",
+                                "fileName":  "cobblemonraiddens-fabric-0.12.1+1.21.1.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/GebWh45l/versions/vubpu1Xb/cobblemonraiddens-fabric-0.12.1%2B1.21.1.jar",
+                                "expectedSize":  2752132,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Navas ZA Megas",
+                                "slug":  "navas-zamega",
+                                "fileName":  "zamega-fabric-1.8.1+1.8.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/2V1Y86sc/versions/AkUZt99V/zamega-fabric-1.8.1%2B1.8.jar",
+                                "expectedSize":  899567,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "oωo (owo-lib)",
+                                "slug":  "owo-lib",
+                                "fileName":  "owo-lib-0.13.0-alpha.15+1.21.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/ccKDOlHs/versions/m3XmDd8j/owo-lib-0.13.0-alpha.15%2B1.21.jar",
+                                "expectedSize":  1963544,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Lithostitched",
+                                "slug":  "lithostitched",
+                                "fileName":  "lithostitched-1.8.0-fabric-21.1.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/XaDC71GB/versions/eN30OQaU/lithostitched-1.8.0-fabric-21.1.jar",
+                                "expectedSize":  971957,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Chipped",
+                                "slug":  "chipped",
+                                "fileName":  "chipped-fabric-1.21.1-4.0.2.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/BAscRYKm/versions/6h2mVZcb/chipped-fabric-1.21.1-4.0.2.jar",
+                                "expectedSize":  15016830,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Resourceful Lib",
+                                "slug":  "resourceful-lib",
+                                "fileName":  "resourcefullib-fabric-1.21-3.0.12.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/G1hIVOrD/versions/Hf91FuVF/resourcefullib-fabric-1.21-3.0.12.jar",
+                                "expectedSize":  485586,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
+                            },
+                            {
+                                "name":  "Athena",
+                                "slug":  "athena-ctm",
+                                "fileName":  "athena-fabric-1.21.1-4.0.6.jar",
+                                "downloadUrl":  "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/JfyYsWKP/athena-fabric-1.21.1-4.0.6.jar",
+                                "expectedSize":  88425,
+                                "isDatapack":  false,
+                                "isResourcepack":  false
                             }
                         ],
     "skins":  [
